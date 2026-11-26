@@ -61,7 +61,7 @@ endmodule
 
 
 
-<img width="1280" height="472" alt="exp 2" src="https://github.com/user-attachments/assets/c7e0300f-88ce-4272-87fd-3aed096db733" />
+
 
 
 # Simulation Procedure
@@ -112,6 +112,7 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
+<img width="1280" height="472" alt="exp 2" src="https://github.com/user-attachments/assets/2eaa1c04-3b73-477d-b587-084d484d64ab" />
 
 
  
