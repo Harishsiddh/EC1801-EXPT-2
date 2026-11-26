@@ -59,10 +59,9 @@ module tb;
 
 endmodule
 
-output
+OUTPUT
+<img width="1280" height="472" alt="exp 2" src="https://github.com/user-attachments/assets/c7e0300f-88ce-4272-87fd-3aed096db733" />
 
- 
-<img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/8a343bdb-ffb4-4aac-8b88-cf59eca374a8" />
 
 # Simulation Procedure
 STEP 1 – Open Terminal
