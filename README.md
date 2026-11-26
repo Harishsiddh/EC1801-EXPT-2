@@ -59,7 +59,8 @@ module tb;
 
 endmodule
 
-OUTPUT
+
+
 <img width="1280" height="472" alt="exp 2" src="https://github.com/user-attachments/assets/c7e0300f-88ce-4272-87fd-3aed096db733" />
 
 
